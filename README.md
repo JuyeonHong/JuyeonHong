@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=E45530&logo=swift&logoColor=FFFFFF)
 **JuyeonHong/JuyeonHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
